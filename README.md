@@ -41,14 +41,13 @@ Entry-level AI & Data Science professional with a strong foundation in Python, S
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=16ajoop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=16ajoop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&custom_title=My%20GitHub%20Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16ajoop&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="180" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=16ajoop&theme=tokyonight&hide_border=true&background=1a1b26" />
 </div>
-
 ---
 
 <div align="center">
