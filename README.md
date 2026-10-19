@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="banner.gif" alt="Pooja V - AI & Data Science Engineer" width="100%" />
+  <img src="https://ghchart.rshah.org/2ea043/16ajoop" alt="16ajoop's GitHub contribution chart" width="90%" />
 </p>
+
+
+
+<!-- <p align="center">
+  <img src="banner.gif" alt="Pooja V - AI & Data Science Engineer" width="100%" />
+</p> -->
 
 <p align="center">
   Building RAG pipelines, agentic workflows, and ML-powered applications
@@ -89,17 +95,9 @@ Deep sequential learning system built on a stacked LSTM network that predicts pl
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/16ajoop" alt="16ajoop's GitHub contribution chart" width="90%" />
-</p>
-
----
-
 ## Get in Touch
 
-Open to entry-level roles in AI, machine learning, and data science. Reach me on [LinkedIn](https://linkedin.com/in/poojav16) or 
+Open to entry-level roles in AI, machine learning, and data science. Reach me on [LinkedIn](https://linkedin.com/in/poojav16)
 
 
 
