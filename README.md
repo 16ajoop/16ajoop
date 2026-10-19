@@ -102,13 +102,3 @@ Deep sequential learning system built on a stacked LSTM network that predicts pl
 Open to entry-level roles in AI, machine learning, and data science. Reach me on [LinkedIn](https://linkedin.com/in/poojav16) or at [poojavaithi75@gmail.com](mailto:poojavaithi75@gmail.com).
 
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=16ajoop&theme=tokyonight&hide_border=true&background=1a1b26" />
-</div>
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=100&section=footer" />
-</div>
