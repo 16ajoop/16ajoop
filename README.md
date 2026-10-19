@@ -1,3 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Pooja V - AI &amp; Data Science Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#2b2b2b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" fill="url(#bg)"/>
+
+  <circle cx="36" cy="30" r="6" fill="#ffffff" fill-opacity="0.9"/>
+  <circle cx="58" cy="30" r="6" fill="#ffffff" fill-opacity="0.55"/>
+  <circle cx="80" cy="30" r="6" fill="#ffffff" fill-opacity="0.25"/>
+
+  <text x="80" y="108" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Menlo, 'Courier New', monospace" font-size="56" font-weight="700" fill="#ffffff" textLength="302" lengthAdjust="spacingAndGlyphs">&gt; Pooja V</text>
+
+  <rect x="392" y="64" width="26" height="54" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="80" y="156" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Menlo, 'Courier New', monospace" font-size="20" fill="#bdbdbd" textLength="348" lengthAdjust="spacingAndGlyphs">// AI &amp; Data Science Engineer</text>
+</svg>
+
+
+
+
+
+
+
+
+
+------------------
 <p align="center">
   <img src="banner.svg" alt="Pooja V - AI & Data Science Engineer" width="100%" />
 </p>
