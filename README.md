@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/poojav16"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2ea043" alt="LinkedIn" /></a>
-  <a href="https://github.com/16ajoop"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2ea043" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/poojjaaee/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=2ea043" alt="LeetCode" /></a>
-  <a href="mailto:poojavaithi75@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2ea043" alt="Email" /></a>
+  <a href="https://linkedin.com/in/poojav16"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=99999" alt="LinkedIn" /></a>
+  <a href="https://github.com/16ajoop"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=99999" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/poojjaaee/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=99999" alt="LeetCode" /></a>
 </p>
 
 ---
