@@ -13,8 +13,6 @@
   <a href="mailto:poojavaithi75@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2ea043" alt="Email" /></a>
 </p>
 
-![Uploading banner.svg…]()
-
 ---
 ## About
 
