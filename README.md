@@ -43,7 +43,7 @@ End-to-end RAG system that analyzes and refines user queries with an LLM, then r
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-### [Machine Learning: Player Churn Prediction](https://github.com/16ajoop/AI_Player_Behaviour_Pattern_Analyzer)
+### [AI Player Behaviour Pattern Analyzer](https://github.com/16ajoop/AI_Player_Behaviour_Pattern_Analyzer)
 Deep sequential learning system built on a stacked LSTM network that predicts player behavior patterns and churn risk, with an interactive Streamlit dashboard for real-time risk analysis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
