@@ -1,8 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/2ea043/16ajoop" alt="16ajoop's GitHub contribution chart" width="90%" />
-</p>
+</p> -->
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/16ajoop/16ajoop/output/snake-dark.svg" alt="Contribution grid" />
+</div>
 
 <!-- <p align="center">
   <img src="banner.gif" alt="Pooja V - AI & Data Science Engineer" width="100%" />
